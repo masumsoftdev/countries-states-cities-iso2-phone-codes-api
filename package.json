@@ -1,0 +1,25 @@
+{
+  "name": "countries-states-cities-iso2-phone-codes-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Masum Billah",
+  "license": "MIT",
+  "description": "This will provide all countries, states, cities, ISO2 codes, phone codes, and country flags.",
+  "keywords": [
+    "countries",
+    "states",
+    "cities",
+    "database",
+    "ISO2",
+    "phone-codes",
+    "country-flags",
+    "npm-package",
+    "countres-api",
+    "states-api",
+    "cities-api",
+    "free-api"
+  ]
+}
